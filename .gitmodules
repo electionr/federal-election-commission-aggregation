@@ -58,9 +58,3 @@
 [submodule "fech_yaml/2014"]
 	path = fech_yaml/2014
 	url = git@github.com:h4ck3rm1k3/federal-election-commission-aggregation-2014.git
-
-
-
-
-
-
