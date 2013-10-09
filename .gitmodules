@@ -32,11 +32,11 @@
 
 [submodule "fech_yaml/2008"]
 	path = fech_yaml/2008
-	url = github.com:h4ck3rm1k3/federal-election-commission-aggregation-2008
+	url = git@github.com:h4ck3rm1k3/federal-election-commission-aggregation-2008.git
 
 [submodule "fech_yaml/2009"]
 	path = fech_yaml/2009
-	url = github.com:h4ck3rm1k3/federal-election-commission-aggregation-2009
+	url = git@github.com:h4ck3rm1k3/federal-election-commission-aggregation-2009.git
 
 [submodule "fech_yaml/2010"]
 	path = fech_yaml/2010
