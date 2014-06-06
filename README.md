@@ -10,7 +10,7 @@ Reading the FEC zip files and parsing them, using a codified description of the 
      github.com/h4ck3rm1k3/FEC-Field-Documentation
 
 First Example of data located in this directory :
-committee/C00136853/info.yml and that refrences on file  committee/C00136853/2000/10/15/7128.fec.yml
+committee/C00136853/info.yml and that references on file  committee/C00136853/2000/10/15/7128.fec.yml
 
 There are some more yaml files in the root dir, Template.yml is designed to be imported by the main info.yml and the fecid replaced. 
 Sources.yml contains some sources of data in general.
